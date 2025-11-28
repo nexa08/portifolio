@@ -28,7 +28,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       id: "2", 
-      title: "vcard App",
+      title: "Vcard App",
       description: "Contact sharing  app for tracking daily scan logs from the shared qr codes in real time",
       technologies: ["React Native", "Expo", "Mysql","Node","JavaScript"],
       githubUrl: "https://gitlab.com/nexa.theicon/vcard_app"
